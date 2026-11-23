@@ -65,7 +65,7 @@ It also demonstrates how business data can be transformed into clear performance
 
 ## Dashboard Preview
 
-![UK Retail Sales Dashboard](UK_Retail_Sales_Business_Performance_Dashboard.pdf)
+![UK Retail Sales & Business Performance Dashboard](uk-retail-dashboard.png)
 
 ## Download Project Files
 
