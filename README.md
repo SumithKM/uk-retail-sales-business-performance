@@ -63,11 +63,14 @@ This project helped develop practical Excel skills in organising data, analysing
 
 It also demonstrates how business data can be transformed into clear performance indicators to support better understanding and decision-making.
 
-## Project Files
+## Dashboard Preview
 
-The Excel workbook is available here:
+![UK Retail Sales Dashboard](UK_Retail_Sales_Business_Performance_Dashboard.pdf)
 
-[Download the Excel Workbook](UK_Retail_Sales_Business_Performance.xlsx)
+## Download Project Files
+
+- [Download Excel Workbook](UK_Retail_Sales_Business_Performance.xlsx)
+- [View Dashboard PDF](UK_Retail_Sales_Business_Performance_Dashboard.pdf)
 
 ## Data Source
 
